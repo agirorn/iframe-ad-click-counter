@@ -1,0 +1,7 @@
+{
+  "extends": ".jshintrc-base",
+  "node": true,
+  "globals": {
+    "moment": true
+  }
+}
